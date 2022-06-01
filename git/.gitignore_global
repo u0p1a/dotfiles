@@ -1,0 +1,25 @@
+# OS file
+*~
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+.idea_modules/
+*.iml
+
+# VSCode
+.vscode/
+
+# Log file
+*.log
+
+# Compiled file
+*.class
+*.o
+*.so
+*.dll
+*.exe
+*.pid
